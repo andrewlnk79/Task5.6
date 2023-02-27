@@ -11,6 +11,7 @@ namespace Task5._6
         static void Main(string[] args)
         {
             Console.WriteLine(Person());
+            Console.ReadKey();
 
         }
 
@@ -66,7 +67,8 @@ namespace Task5._6
         {
             Console.WriteLine("у вас есть домашнии животные? да или нет");
             var answer = Console.ReadLine();
-            if (answer == "да") { return true; }
+            
+            if (answer.Equals( "да")) { return true; }  
             else { return false; }
         }
 
@@ -92,6 +94,7 @@ namespace Task5._6
 
             }
             return pets_name;
+            Console.WriteLine( pets_name );
 
 
         }
