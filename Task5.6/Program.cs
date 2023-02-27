@@ -10,6 +10,7 @@ namespace Task5._6
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(Person());
 
         }
 

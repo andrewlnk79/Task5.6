@@ -1,0 +1,8 @@
+C:\IDE\Visual\SkillFactory\Task5.6\Task5.6\bin\Debug\Task5.6.exe.config
+C:\IDE\Visual\SkillFactory\Task5.6\Task5.6\bin\Debug\Task5.6.exe
+C:\IDE\Visual\SkillFactory\Task5.6\Task5.6\bin\Debug\Task5.6.pdb
+C:\IDE\Visual\SkillFactory\Task5.6\Task5.6\obj\Debug\Task5.6.csproj.AssemblyReference.cache
+C:\IDE\Visual\SkillFactory\Task5.6\Task5.6\obj\Debug\Task5.6.csproj.SuggestedBindingRedirects.cache
+C:\IDE\Visual\SkillFactory\Task5.6\Task5.6\obj\Debug\Task5.6.csproj.CoreCompileInputs.cache
+C:\IDE\Visual\SkillFactory\Task5.6\Task5.6\obj\Debug\Task5.6.exe
+C:\IDE\Visual\SkillFactory\Task5.6\Task5.6\obj\Debug\Task5.6.pdb
